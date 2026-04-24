@@ -1,0 +1,6 @@
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+langgraph>=0.2.0
+arxiv>=2.1.0
+requests>=2.32.0
+pytest>=8.0.0
