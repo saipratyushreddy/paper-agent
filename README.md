@@ -99,8 +99,3 @@ If I were extending this as research rather than a demo:
   Currently the agent invents a plausible-looking tool call and the
   critic does not reliably catch it. A tool-scope check before
   execution would help.
-
----
-
-Built as a reference implementation while preparing for PhD work on
-LLM agents for scientific discovery.
